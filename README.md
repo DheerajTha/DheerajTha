@@ -1,11 +1,13 @@
-# 👋 Hey, I'm Dheeraj – Full Stack Developer from India 🇮🇳
+👋 Hey, I'm Dheeraj – Mern  Stack Developer crafting modern web experiences from India 🇮🇳
+I'm passionate about building meaningful and high-performance web applications using the latest technologies. I enjoy solving real-world problems with clean, scalable code and delivering seamless user experiences.
 
-I'm passionate about building meaningful and performant web applications using cutting-edge technologies. I love solving real-world problems with clean, scalable code and modern UI/UX.
+🛠️ Tech Stack: MERN Stack + Next.js 
 
-- 🛠️ Tech Stack: **MERN Stack** + **Next.js** + **Tailwind CSS**
-- 🚀 Always learning & staying updated with new tech trends
-- 💡 Focused on clean code, performance, and user-centric design
-- 📍 Based in India | 🌐 Available for remote work
+🚀 Continuously learning & exploring new tech innovations
+
+💡 Dedicated to clean code, optimization & user-first design
+
+📍 Based in India | 🌐 Open to remote opportunities
 
 ---
 
