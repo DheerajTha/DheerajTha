@@ -35,9 +35,8 @@ I'm passionate about building meaningful and performant web applications using c
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourlinkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourtwitter)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)]([https://instagram.com/yourinstagram](https://www.instagram.com/dheeraj_thakur2299/#))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?logo=google-chrome)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?logo=google-chrome)]([https://yourportfolio.com](https://dheeraj-portfolio-eta.vercel.app/))
 
 ---
 
