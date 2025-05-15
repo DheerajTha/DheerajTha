@@ -1,12 +1,16 @@
-# 👋 Hey there! I'm Dheeraj - A Full Stack Developer Crafting Digital Experiences from India 🇮🇳
+# 👋 Hey, I'm Dheeraj – Full Stack Developer from India 🇮🇳
 
-🎯 Passionate about building impactful web applications using modern technologies.
-💻 Currently working with the **MERN Stack** + **Next.js** .
-🚀 Always learning and exploring new technologies to build scalable & optimized solutions.
+I'm passionate about building meaningful and performant web applications using cutting-edge technologies. I love solving real-world problems with clean, scalable code and modern UI/UX.
+
+- 🛠️ Tech Stack: **MERN Stack** + **Next.js** + **Tailwind CSS**
+- 🚀 Always learning & staying updated with new tech trends
+- 💡 Focused on clean code, performance, and user-centric design
+- 📍 Based in India | 🌐 Available for remote work
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
@@ -21,22 +25,32 @@
 
 ---
 
-## 📈 GitHub Stats
-![Dheeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DheerajTha&show_icons=true&theme=github_dark)
+## 📊 GitHub Insights
+
+![Dheeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DheerajTha&show_icons=true&theme=github_dark&hide=issues)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajTha&layout=compact&theme=github_dark)
 
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=DheerajTha&theme=darkhub)
+## 🔗 Connect With Me
 
----
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourlinkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourtwitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourlinkedin)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourtwitter)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourinstagram)  
+[![WordPress Blog](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)](https://yourwordpress.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?logo=google-chrome)](https://yourportfolio.com)
 
 ---
 
-### 🔥 Keep Coding & Keep Building!
+## ✨ About Me
+
+🌱 I’m constantly exploring new tools and technologies in the JavaScript ecosystem.  
+🧠 Currently sharpening my backend and DevOps skills.  
+🎯 I believe in "Building with Purpose" – every line of code should solve a problem.
+
+---
+
+> ⚡ “Keep learning, keep building, and always be curious.”  
+
+---
+
