@@ -54,18 +54,6 @@ I'm passionate about building meaningful and high-performance web applications u
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DheerajTha&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DheerajTha&theme=radical" />
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajTha&layout=compact&theme=radical" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=DheerajTha&theme=radical&row=2&column=3" />
-</div>
-
 ---
 
 ## 📫 Let's Collaborate
